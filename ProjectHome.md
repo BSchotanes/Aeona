@@ -1,0 +1,1 @@
+Trinity is a game project for FullSail's SGP class from Team4: Ari Bodaghee, Phil Sullivan, Daniel Lima and Bryan Schotanes.
